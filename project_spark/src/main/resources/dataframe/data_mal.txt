@@ -1,0 +1,17 @@
+198;Syndrome;150
+HOTAIR;Neoplasms;1.0018
+29;Immunodeficiency;15
+101;Alzheimer;100
+140;Arthritis;18
+16;Autoimmune_Diseases;23
+708;Bladder_Neoplasm;50
+7;Breast Neoplasms;14
+15;Asmah;102
+DGCR5;Huntington Disease;0.875
+14;Rhemauthoid Disease;14
+PVT1;lymphoma;1.0
+PVT1;Neoplasms;0.99998534
+98;Heart Disease;50
+106;Carcinoma;150
+104;Colon Neoplasms;14
+47;Diabetes Mellitus;0.9999993

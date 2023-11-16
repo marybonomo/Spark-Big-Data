@@ -1,0 +1,80 @@
+Disease	ID
+Asthma	C000409
+Heart Disease	C0018799
+Diabetes	C0011847
+Alzheimer Disease	C0011847
+Fibromyalgia	C0016053
+Rheumatoid arthritis	C0003873
+Cardiovascular Disease	C0007222
+Hypertension	C0020538
+Heart failure	C0018801
+Stroke	C0038454
+Arthritis	C0003864
+Cancer	C0006826
+Osteoporosis	C0029456
+Dyspepsia	C0013395
+ischemic heart disease	C0151744
+Emphysemas	C0013990
+Peptic Ulcer	C0030920
+Cardiomyopathy	C1449563
+Renal disease	C1408247
+Hypothyroidism	C0020676
+Hyperthyroidism	C0020550
+Hemiplegia	C0018991
+Liver Disease	C0023895
+Dementia	C0497327
+Hyperlipidemia	C0020473
+Myocardial infarction	C0027051
+Congestive heart failure	C0018802
+Osteoarthritis	C0409959
+Musculoskeletal disease	C0026857
+Chronic liver disease	C0341439
+colon cancer	C0338106
+rectal cancer	C0007113
+Depression	C0005587
+Lung Diseases	C0024115
+Cataract	C0086543
+Endocrine	C0014130
+Gastrointestinal diseases	C0017178
+Diabetes mellitus	C0011849
+Gout	C0018099
+Thyroid diseases	C0040128
+Mental disorders	C0004936
+Psoriasis	C0033860
+Migraine	C0149931
+Anaemia	C0002871
+Leukemia	C0023418
+Lymphoma	C0024299
+Multiple myeloma	C0026764
+Inflammatory Bowel Disease	C0021390
+Obesity	C0028754
+Pulmonary Embolism	C0034065
+Hypercholesterolaemia	C0020443
+Angina pectoris	C0002962
+Coronary Heart Disease	C0010068
+Chronic bronchitis	C0008677
+Mood disorders	C0525045
+Psychiatric Disorders	C0004936
+Gall bladder	C0016977
+Lipid metabolism disorder	C0154251
+Connective tissue disease	C0009782
+Rheumatic Diseases	C0035435
+systemic lupus erythematosus	C3280742
+Peripheral artery disease	C1704436
+Respiratory disease	C1609528
+Gastrooesophageal reflux	C0017168
+peripheral vascular disease	C0085096
+Thoracic aortic aneurysm	C0162872
+Cardiovascular disease	C0007222
+COPD	C0740304
+Bronchitis	C0006277
+Leukemia	C0002773
+Fibromyalgia	C0001520
+Rheumatoid arthritis	C0000672
+Cardiovascular Disease	C0008751
+Hypertension	C002041
+Heart failure	C001845
+Stroke	C0038404
+Arthritis	C0003865
+Cancer	C0006828
+Breast Neoplasms	C0040128 

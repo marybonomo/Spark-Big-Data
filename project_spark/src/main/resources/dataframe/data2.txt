@@ -1,0 +1,67 @@
+XIST;Neoplasms;4.435259
+XIST;Breast Neoplasms;12.957338
+CDKN2B-AS1;Nasopharyngeal Neoplasms;0.99998516
+MALAT1;Lung Neoplasms;0.81364083
+EPB41L4A-AS1;Neoplasms;3.5384967
+KCNQ1OT1;Carcinoma, Hepatocellular;-13.552983
+CDKN2B-AS1;endometriosis;1.0
+PVT1;Hodgkin Disease;0.9999475
+H19;Ovarian Neoplasms;2.3866649
+CDKN2B-AS1;Neoplasms;0.9269242
+MALAT1;Colorectal Neoplasms;-9.385144
+H19;neuroblastoma;1.0
+MALAT1;Neoplasms;0.31315315
+H19;Carcinoma, Hepatocellular;3.4311113
+KCNQ1OT1;Colorectal Neoplasms;8.626756
+MALAT1;Pancreatic Neoplasms;4.4973235
+H19;melanoma;1.0
+H19;Breast Neoplasms;-10.138962
+HOTAIR;Carcinoma, Hepatocellular;2.5426793
+H19;Neoplasms;3.669186
+H19;Lung Neoplasms;4.3786864
+MALAT1;Breast Neoplasms;-16.730183
+MALAT1;Laryngeal Neoplasms;1.0
+MALAT1;Carcinoma, Hepatocellular;16.153004
+HOTAIR;Colorectal Neoplasms;-0.7088257
+MIAT;myocardial infarction;1.0
+MIAT;schizophrenia;1.0
+H19;glioma;1.0
+HOTAIR;Ovarian Neoplasms;0.8073777
+MIAT;Neoplasms;0.9615592
+CDKN2B-AS1;Breast Neoplasms;19.434944
+HOTAIR;Lung Neoplasms;-8.426044
+CDKN2B-AS1;Melanoma;0.8661934
+H19;pre-eclampsia;1.0
+MALAT1;Carcinoma, Non-Small-Cell Lung;-12.533262
+HOTAIR;Breast Neoplasms;-11.279673
+PVT1;Pancreatic Neoplasms;0.99998087
+H19;glioblastoma;1.0
+Fendrr;Heart Failure;1.0
+HCP5;Acquired Immunodeficiency Syndrome;0.8518518
+PVT1;Burkitt Lymphoma;0.99997246
+CDKN2B-AS1;periodontitis;1.0
+CDKN2B-AS1;Stroke;0.9999844
+HOTAIR;Laryngeal Neoplasms;1.0
+HOTAIR;Carcinoma, Squamous Cell;1.0000017
+PVT1;lymphoma;1.0
+PVT1;Neoplasms;0.99998534
+HOTAIR;Neoplasms;1.0018
+SNHG16;Colorectal Neoplasms;-12.0355835
+HOTAIR;Gastrointestinal Neoplasms;1.0
+DGCR5;Huntington Disease;0.875
+TUG1;Carcinoma, Non-Small-Cell Lung;0.96037906
+HOTAIR;Colon Neoplasms;0.98991936
+PVT1;Breast Neoplasms;-3.6523457
+H19;obesity;1.0
+H19;Colon Neoplasms;0.99390244
+H19;Gastric Neoplasms;0.99390244
+H19;Medulloblastoma;1.0
+MALAT1;osteosarcoma;1.0
+MALAT1;Colon Neoplasms;0.9035088
+PVT1;Diabetes Mellitus, Type 2;1.0
+H19;Esophageal Neoplasms;0.9999993
+MALAT1;Endometrial Neoplasms;1.0000368
+GAS5;Breast Neoplasms;-4.1269937
+SNHG5;lymphoma;1.0
+MIR155HG;Leukemia, Lymphocytic, Chronic, B-Cell;0.9999679
+H19;Myeloproliferative Disorders;0.99994326
